@@ -3,6 +3,8 @@ Building a custom environment using Unity's ML Agents
 
 
 ## Be sure to install:
+Pytorch: https://pytorch.org/get-started/locally/
+
 Unity Input System from the Package Manager
 
 ML agents.extensions: https://github.com/Unity-Technologies/ml-agents/blob/main/com.unity.ml-agents.extensions/Documentation~/com.unity.ml-agents.extensions.md
